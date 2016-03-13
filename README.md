@@ -1,7 +1,5 @@
 # Hw-for-Week-5
 
-package test;
-
 import java.util.Scanner;
 
 public class Calculator {
